@@ -4,6 +4,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pechenka232&layout=compact&theme=radical)
 
+![Public Repos](https://img.shields.io/github/repos/pechenka232?color=red&label=Public%20Repositories&logo=github&style=for-the-badge)
+
+
 
 
 
