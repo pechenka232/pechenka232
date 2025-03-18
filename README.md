@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm [pechenka232]!
 
-<!--
-**pechenka232/pechenka232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pechenka232&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About me
+- 💻 Web3 developer: Python, JavaScript
+- 🔥 Experience in EVM/nonEVM LEDs
+- 🌍 I work with proxies, captchas, Cloudflare
+- 🛠 I write scripts for automation
+
+## 📫 How to contact?
+
+
+---
+🚀 **I pump up my projects and automate Web3!**
