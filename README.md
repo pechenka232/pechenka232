@@ -5,8 +5,9 @@
 
 ## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pechenka232&show_icons=true&theme=tokyonight" />
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=pechenka232&show_icons=true&count_private=true&hide_title=true&theme=github_dark&bg_color=0a0e14&text_color=ffffff&icon_color=32cd32&hide=prs" />
+</p>
+
 
 
 ## 🚀 Tech Stack  
