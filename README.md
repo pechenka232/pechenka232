@@ -19,6 +19,7 @@
 
 </p>
 - **Languages:** Python, Solidity, JavaScript, C++  
+
 - **Blockchain:** EVM & non-EVM, Smart Contracts, Web3.js, ethers.js  
 - **Automation:** Selenium, Puppeteer, Playwright  
 - **Databases:** PostgreSQL, MySQL  
