@@ -9,16 +9,18 @@
 
 
 
+# 👋 Hi, I'm [pechenka232]!
 
+## 🛠 Tech Stack:
+- **Languages:** Python, Solidity, JavaScript, C++
+- **Blockchain:** EVM & non-EVM chains, Smart Contracts, Web3.js, ethers.js
+- **Automation:** Selenium, Puppeteer, Playwright
+- **Databases:** PostgreSQL, MySQL
+- **Other:** Proxy management, Anti-detection, Captcha solving, Cloudflare bypass
 
-## 📌 About me
-- 💻 Web3 developer: Python, JavaScript
-- 🔥 Experience in EVM/nonEVM LEDs
-- 🌍 I work with proxies, captchas, Cloudflare
-- 🛠 I write scripts for automation
-
-## 📫 How to contact?
-
-
----
-🚀 **I pump up my projects and automate Web3!**
+## 🚀 What I Do:
+- Developing automation scripts for Web3 projects  
+- Writing smart contracts in Solidity  
+- Scraping and parsing APIs, bypassing anti-bot systems  
+- Implementing multi-account asynchronous operations  
+- Optimizing and securing blockchain interactions  
