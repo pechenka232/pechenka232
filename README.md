@@ -9,8 +9,6 @@
 
 
 
-# 👋 Hi, I'm [pechenka232]!
-
 ## 🛠 Tech Stack:
 - **Languages:** Python, Solidity, JavaScript, C++
 - **Blockchain:** EVM & non-EVM chains, Smart Contracts, Web3.js, ethers.js
