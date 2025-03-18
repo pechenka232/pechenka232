@@ -22,6 +22,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pechenka232&layout=compact&theme=tokyonight" />
 </p>
 
-## 🌍 Connect with me
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/your_username)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/your_username)
+
