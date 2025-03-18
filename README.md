@@ -1,9 +1,7 @@
 
-
-
 <h1 align="center">👋 Hi, I'm pechenka232!</h1>
 
-![GitHub Banner](https://github.com/pechenka232/pechenka232/blob/main/banner.png)  
+
 
 ## 🔥 GitHub Stats
 <p align="center">
