@@ -1,6 +1,9 @@
 # 👋 Hi, I'm [pechenka232]!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pechenka232&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pechenka232&show_icons=true&theme=radical&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pechenka232&layout=compact&theme=radical)
+
 
 
 
