@@ -1,24 +1,27 @@
-# 👋 Hi, I'm [pechenka232]!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pechenka232&show_icons=true&theme=radical&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pechenka232&layout=compact&theme=radical)
-
-![Public Repositories](https://img.shields.io/badge/Public%20Repositories-$(curl%20-s%20https://api.github.com/users/pechenka232|jq%20-r%20'.public_repos')-blue?style=for-the-badge&logo=github)
 
 
 
+<h1 align="center">👋 Hi, I'm pechenka232!</h1>
 
-## 🛠 Tech Stack:
-- **Languages:** Python, Solidity, JavaScript, C++
-- **Blockchain:** EVM & non-EVM chains, Smart Contracts, Web3.js, ethers.js
-- **Automation:** Selenium, Puppeteer, Playwright
-- **Databases:** PostgreSQL, MySQL
-- **Other:** Proxy management, Anti-detection, Captcha solving, Cloudflare bypass
+![GitHub Banner](https://github.com/pechenka232/pechenka232/blob/main/banner.png)  
 
-## 🚀 What I Do:
-- Developing automation scripts for Web3 projects  
-- Writing smart contracts in Solidity  
-- Scraping and parsing APIs, bypassing anti-bot systems  
-- Implementing multi-account asynchronous operations  
-- Optimizing and securing blockchain interactions  
+## 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pechenka232&show_icons=true&theme=tokyonight" />
+</p>
+
+## 🚀 Tech Stack  
+- **Languages:** Python, Solidity, JavaScript, C++  
+- **Blockchain:** EVM & non-EVM, Smart Contracts, Web3.js, ethers.js  
+- **Automation:** Selenium, Puppeteer, Playwright  
+- **Databases:** PostgreSQL, MySQL  
+- **Other:** Proxy management, Captcha solving, Cloudflare bypass  
+
+## 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pechenka232&layout=compact&theme=tokyonight" />
+</p>
+
+## 🌍 Connect with me
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/your_username)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/your_username)
