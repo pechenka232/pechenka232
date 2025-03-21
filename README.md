@@ -38,9 +38,5 @@
 - **Databases:** PostgreSQL, MySQL  
 - **Other:** Proxy management, Captcha solving, Cloudflare bypass  
 
-## 📊 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pechenka232&layout=compact&theme=tokyonight" />
-</p>
 
 
