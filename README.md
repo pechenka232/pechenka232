@@ -2,9 +2,25 @@
 
 ---
 
+## 🧠 About Me
+- 🧑‍💻 Middle+ разработчик
+- 🔥 Специализируюсь на Web3, блокчейнах (EVM / non-EVM)
+- ⚙️ Работаю с низкоуровневым и высокоуровневым кодом
+- 🚀 Пишу на Python, JavaScript, TypeScript, Solidity, C/C++, Go
+- 🛠️ Люблю автоматизацию, асинхронность и продуманные архитектуры
+
+---
+
 ## 🔥 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pechenka232&show_icons=true&theme=tokyonight&bg_color=0a0e14&text_color=ffffff&icon_color=32cd32&cache_bust=9" />
+</p>
+
+---
+
+## 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pechenka232&layout=compact&theme=tokyonight&bg_color=0a0e14&text_color=ffffff&cache_bust=9" />
 </p>
 
 ---
@@ -31,5 +47,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
+
+---
+
+## 💡 Fun Fact
+> Я пишу код ночью и не люблю баги – они любят меня 😄
 
 ---
