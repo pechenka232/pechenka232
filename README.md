@@ -1,13 +1,6 @@
 <h1 align="center">👋 Hi, I'm pechenka232!</h1>
 
-<p align="center">
-  <a href="https://t.me/pechenka232" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%40pechenka232-blue?style=for-the-badge&logo=telegram" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-informational?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+
 
 ---
 
