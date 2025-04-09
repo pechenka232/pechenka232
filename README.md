@@ -46,3 +46,6 @@
 > Я пишу код ночью и не люблю баги – они любят меня 
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pechenka232&layout=compact)
+
