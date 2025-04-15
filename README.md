@@ -17,10 +17,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pechenka232&layout=compact&theme=dark)
-</p>
+
+## 🧠 My Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pechenka232&layout=compact&theme=dark)
+
 
 ---
 
