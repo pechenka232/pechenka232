@@ -19,7 +19,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pechenka232&theme=onedark&column=4&margin-w=15&margin-h=15" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pechenka232&layout=compact&theme=dark)
 </p>
 
 ---
