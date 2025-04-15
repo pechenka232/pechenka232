@@ -21,7 +21,7 @@
 ## 🧠 My Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pechenka232&layout=compact&theme=dark&exclude_repo=NeuroSim-,TimLauncher,temp-email-server,crypto-price-tracker,Disccord-music-bot)
-rk)
+
 
 
 ---
