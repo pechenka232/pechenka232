@@ -3,7 +3,7 @@
 
 ![Top Langs](https://github-readme-stats-peach.vercel.app/api/top-langs/?username=pechenka232&layout=compact&theme=tokyonight)
 
-[![Смотреть видео](https://img.youtube.com)](https://www.youtube.com)
+
 
 
 
