@@ -9,4 +9,4 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com)](https://git.io)
+
