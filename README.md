@@ -3,5 +3,6 @@
 
 ![Top Langs](https://github-readme-stats-peach.vercel.app/api/top-langs/?username=pechenka232&layout=compact&theme=tokyonight)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com)](https://git.io)
 
 
