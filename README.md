@@ -5,7 +5,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com)](https://git.io)
+
 
 
 
