@@ -6,9 +6,8 @@
 
 
 ### Пишу код на этом
-<p align="left">
-  <img src="https://shields.io" alt="JavaScript" />
-</p>
+![JavaScript](https://shields.io)
+
 
 
 
