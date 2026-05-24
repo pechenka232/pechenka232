@@ -5,8 +5,7 @@
 
 
 
-
-style="vertical-align:down; margin:4px"/>[![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=ts,postman,kafka,jira)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=ts,postman,kafka,jira)](https://skillicons.dev)
 
 
 
