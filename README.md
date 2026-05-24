@@ -3,7 +3,7 @@
 
 ![Top Langs](https://github-readme-stats-peach.vercel.app/api/top-langs/?username=pechenka232&layout=compact&theme=tokyonight)
 
-<img src="https://vercel.app" height="180" />
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=ts,postman,kafka,jira)](https://skillicons.dev)
