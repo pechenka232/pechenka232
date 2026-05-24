@@ -5,7 +5,11 @@
 
 
 
-
+### Пишу код на этом
+![Rust](https://shields.io)
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
 
 
 
