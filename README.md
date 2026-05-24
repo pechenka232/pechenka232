@@ -6,10 +6,10 @@
 
 
 ### Пишу код на этом
-<img src="https://githubusercontent.com" alt="Rust" width="40" height="40"/> &nbsp;
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="JavaScript" />
+</p>
+
 
 
 
