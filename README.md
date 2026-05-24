@@ -6,7 +6,7 @@
 
 
 ### Пишу код на этом
-![Rust](https://shields.io)
+[![Rust](https://shields.io)](https://rust-lang.org)
 ![Python](https://shields.io)
 ![JavaScript](https://shields.io)
 ![TypeScript](https://shields.io)
