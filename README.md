@@ -5,8 +5,7 @@
 
 
 
-### Пишу код на этом
-![JavaScript](https://shields.io)
+
 
 
 
