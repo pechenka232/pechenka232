@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats-peach.vercel.app/api?username=pechenka232&show_icons=true&theme=tokyonight&v=5)
+![GitHub Stats](https://github-readme-stats-peach.vercel.app/api?username=pechenka232&show_icons=true&theme=tokyonight&v=8)
 
 
 ![Top Langs](https://github-readme-stats-peach.vercel.app/api/top-langs/?username=pechenka232&layout=compact&theme=tokyonight)
